@@ -37,3 +37,5 @@ $ sudo apt-get update
 #Herramientas adicionales
 
 Utilizamos la herramienta de MobaXterm para conectarse con la maquina virtual pero teniendo acceso a los comandos de nuestro equipo principal. Esto con el fin de evitar errores al introducir las lineas de codigo previamente mostradas. 
+
+`<addr>` element here instead.
